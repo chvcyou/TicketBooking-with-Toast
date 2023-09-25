@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoTrain</string>
+    <array name="cities">
+        <item>Jakarta</item>
+        <item>Bekasi</item>
+        <item>Bogor</item>
+        <item>Jogja</item>
+    </array>
+</resources>
